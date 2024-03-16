@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+    {{ partial "head.html" . }}
+    <body>
+      <main class="blog-post-content">
+        <h1 style="text-align: center">The Strays </h1>
+        <p style="text-align: center;"> The home of John Mathena's stray thoughts 
+        </p>
+        <br>
+        <ul class="all-blog-posts-page">
+          {{ range site.RegularPages }}
+          <li>
+            <p>
+              <a href="{{ .Permalink }}">
+                <h3>{{ .Title }}</h3>
+              </a>
+            </p>
+            <div class="blog-post-summary"> {{ .Summary }} </div>
+          </li>
+          {{ end }}
+        </ul>
+      </main>
+      {{ partial "footer.html" . }}
+    </body>
+</html>

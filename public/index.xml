@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Strays</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on The Strays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Musings on AI pt 2</title>
+      <link>http://localhost:1313/posts/2024-02-25-musings-on-ai-pt-2/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-02-25-musings-on-ai-pt-2/</guid>
+      <description>Though I don&amp;rsquo;t feel anything from pt 1 was incorrect, I wanted lend a bit more credulity to AI and Machine Learning work. I&amp;rsquo;m gonna reference mostly work and posts from a machine learning engineer and tech writer I follow, Vicki Boykis. She has a great post from Feb 2023 on Chat GPT titled &amp;ldquo;What should you use Chat GPT for?&amp;rdquo;. Part of her assessment from then:&#xA;&amp;ldquo;So, for myself, my rules for engaging with Chat GPT are to give it small, inconsequential things it can iterate well on and that I have the ability to check&amp;hellip;&amp;rdquo;</description>
+    </item>
+    <item>
+      <title>Musings on AI</title>
+      <link>http://localhost:1313/posts/2024-02-23-musings-on-ai/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-02-23-musings-on-ai/</guid>
+      <description>I&amp;rsquo;m trying to get in the habit of blogging a bit more frequently so this will seem less collected than other posts.&#xA;I&amp;rsquo;ve largely avoided tinkering too much with the various generative AI tools. Mostly because I have little patience for signing up for new things and I&amp;rsquo;ve largely found my current methods of looking things up and getting things done adequate (maybe that&amp;rsquo;s my age showing). On top of that, especially for the latest OpenAI product Sora, I truly don&amp;rsquo;t understand why you would want to use this.</description>
+    </item>
+    <item>
+      <title>The Bear show us how to grow</title>
+      <link>http://localhost:1313/posts/2023-07-10-the-bear-shows-us-how-to-grow/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-07-10-the-bear-shows-us-how-to-grow/</guid>
+      <description>(Minor spoilers for The Bear season 2 lie ahead)&#xA;Episode four of season two of The Bear takes a slight detour from a Chicago family restaurant aiming to reinvent itself to a high-end kitchen in the Netherlands. The Chicago shop&amp;rsquo;s head chefs send their baker, Marcus, to Copenhagen to learn some new dishes from a pastry chef named Luca.&#xA;Bright and early just before 5 am after crossing an ocean, Marcus meets Luca in the kitchen and hits the ground running.</description>
+    </item>
+    <item>
+      <title>Please don&#39;t make me kill</title>
+      <link>http://localhost:1313/posts/2022-04-14-Please-dont-make-me-kill/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022-04-14-Please-dont-make-me-kill/</guid>
+      <description>A WSJ op-ed made its rounds through my little corner of lefty twitter. I&amp;rsquo;m not a subscriber, so I did not read it. Take this post with however big a grain of salt you feel appropriate.&#xA;The op-ed title and subtitle read: &amp;ldquo;An Unintended Consequence of Student-Debt Relief - Will young Americans volunteer for the armed forces in adequate numbers?&amp;rdquo;&#xA;I&amp;rsquo;m pretty disappointed Chrome incognito mode couldn&amp;rsquo;t bust me into this article.</description>
+    </item>
+  </channel>
+</rss>

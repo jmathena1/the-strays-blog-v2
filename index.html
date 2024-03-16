@@ -1,0 +1,19 @@
+---
+layout: default-the-strays
+title: The Strays
+---
+<h1 style="text-align: center">The Strays </h1>
+<p style="text-align: center;"> The home of John Mathena's stray thoughts </p>
+<br>
+<ul class='all-blog-posts-page'>
+	{% for post in site.posts %}
+		<li>
+			<p>
+				<a href="{{ post.url | relative_url }}">
+					<h3>{{ post.title }}</h3>
+				</a>
+			</p>
+			<div class="blog-post-summary"> {{ post.excerpt }} </div>
+		</li>
+	{% endfor %}
+</ul>
