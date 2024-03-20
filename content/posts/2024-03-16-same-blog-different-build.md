@@ -1,7 +1,7 @@
 ---
 author: John Mathena
 date: "2024-03-16"
-title: Same Blog, Different Build. Onto Hugo!
+title: Same Blog, Different Build. On to Hugo!
 ---
 
 I migrated my blog to [Hugo](https://gohugo.io/)! I've been using [Jekyll](https://jekyllrb.com/) to build
